@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Escritorio\\Proyecto GIT Core\\Dominio\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "E:\\Escritorio\\PracticaDominioAnto\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "E:\\Escritorio\\Proyecto GIT Core\\Dominio\\WebAPI\\WebAPI.csproj",
+      "projectPath": "E:\\Escritorio\\PracticaDominioAnto\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "E:\\Escritorio\\Proyecto GIT Core\\Dominio\\WebAPI\\obj\\",
+      "outputPath": "E:\\Escritorio\\PracticaDominioAnto\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

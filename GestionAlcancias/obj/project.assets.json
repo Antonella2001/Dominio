@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Escritorio\\Proyecto GIT Core\\Dominio\\GestionAlcancias\\GestionAlcancias.csproj",
+      "projectUniqueName": "E:\\Escritorio\\PracticaDominioAnto\\GestionAlcancias\\GestionAlcancias.csproj",
       "projectName": "GestionAlcancias",
-      "projectPath": "E:\\Escritorio\\Proyecto GIT Core\\Dominio\\GestionAlcancias\\GestionAlcancias.csproj",
+      "projectPath": "E:\\Escritorio\\PracticaDominioAnto\\GestionAlcancias\\GestionAlcancias.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "E:\\Escritorio\\Proyecto GIT Core\\Dominio\\GestionAlcancias\\obj\\",
+      "outputPath": "E:\\Escritorio\\PracticaDominioAnto\\GestionAlcancias\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

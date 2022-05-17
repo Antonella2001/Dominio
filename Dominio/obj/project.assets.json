@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Escritorio\\Proyecto GIT Core\\Dominio\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "E:\\Escritorio\\PracticaDominioAnto\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "E:\\Escritorio\\Proyecto GIT Core\\Dominio\\Dominio\\Dominio.csproj",
+      "projectPath": "E:\\Escritorio\\PracticaDominioAnto\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "E:\\Escritorio\\Proyecto GIT Core\\Dominio\\Dominio\\obj\\",
+      "outputPath": "E:\\Escritorio\\PracticaDominioAnto\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
